@@ -2,3 +2,20 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+
+
+RandomNumber = Random.RandomInt in Range 1 -10
+Count = 0
+While UserGuess != RandomNumber and Count < 2
+
+	UserGuess = print "what is your guess"
+	
+	Count +=1
+	Print if User Guessed Correctly
+
+
+Print if User Did Not Guess Correctly
+	
+
+
