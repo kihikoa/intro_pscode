@@ -2,3 +2,14 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+
+
+#ask user where they would like to go in to store
+#while the user is not at destination
+# tell user which direction to go north south east west , with a number of steps
+
+#if user goes wrong direction, reroute
+
+#loop until destination is found
+# confirm this is the destination the user was looking for. 
